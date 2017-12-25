@@ -15,10 +15,10 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(n){
   vr rv = [];
-  do{
-    rv.push("I love the Beatles!");
-    n--;
-  } while (n > 0 && n < 15);
-  
+  // do{
+  //   rv.push("I love the Beatles!");
+  //   n--;
+  // } while (n > 0 && n < 15);
+
   return rv;
 }
