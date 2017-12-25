@@ -1,1 +1,3 @@
-var theBeatlesPlay = {};
+function theBeatlesPlay(){
+  
+}
