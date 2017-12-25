@@ -13,7 +13,7 @@ function johnLennonFacts(array){
   return array;
 }
 
-// function iLoveTheBeatles(n){
+function iLoveTheBeatles(n){
 //   vr rv = [];
 //   // do{
 //   //   rv.push("I love the Beatles!");
@@ -21,4 +21,4 @@ function johnLennonFacts(array){
 //   // } while (n > 0 && n < 15);
 //
 //   return rv;
-// }
+}
